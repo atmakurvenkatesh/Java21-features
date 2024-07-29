@@ -6,12 +6,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/venkatesh atmakur/Desktop/commons-httpclient-3.1.jar">
+	<classpathentry kind="lib" path="C:/Users/venkatesh atmakur/git/Java21-features/Java21Demo/bin/commons-httpclient-3.1.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/venkatesh atmakur/Desktop/httpclient-4.5.14.jar">
+	<classpathentry kind="lib" path="C:/Users/venkatesh atmakur/git/Java21-features/Java21Demo/bin/httpclient-4.5.14.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
