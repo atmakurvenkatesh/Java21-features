@@ -9,7 +9,8 @@ public class RecordUsage {
 	}
 
 	public static void main(String[] args) {
-		PersonRecord personRecord = new PersonRecord("ewf","gew");
+		PersonRecord personRecord = new PersonRecord("ewf", "gew");
+		personRecord.address();
 	}
 }
 

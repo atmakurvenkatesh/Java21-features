@@ -33,9 +33,9 @@ non-sealed class Child2 implements Parent {
 	}
 }
 
-class Child3 implements Parent {
+final class Child3 implements Parent {
 	Child3() {
-		super.run();
+		super();
 		System.out.println("inside child3");
 	}
 
